@@ -4,4 +4,4 @@ This is the first assignment for GW bootcamp where we are instructed to update a
 Link is: https://peterkim1025.github.io/module_one/
 
 Screenshot is:
-<img width="1440" alt="Screenshot 2023-08-24 at 4 45 31 PM" src="https://github.com/peterkim1025/module_one/assets/57886218/aed59029-9e8a-46b8-9af4-dae40bb56207">
+<img width="1440" alt="Screenshot 2023-08-24 at 4 46 26 PM" src="https://github.com/peterkim1025/module_one/assets/57886218/006b27ff-8f8f-4bb6-99e6-6d694567aaa1">
